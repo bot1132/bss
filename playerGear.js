@@ -91,10 +91,10 @@ window.playerGear={
         
         superSaturator:{
 
-            count:1,
-            diameter:15,
-            power:0.5,
-            rate:1,
+            count:10,
+            diameter:30,
+            power:1,
+            rate:0.1,
             mesh:function(x,y,z,box,cylinder){
 
                 cylinder(x,y+0.25,z,0.15,2.5,10,0.9,0.9,0.5,1,90,0,0)
