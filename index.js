@@ -24647,7 +24647,7 @@ function BeeSwarmSimulator(DATA){
                 name:'plentyPlanter',
                 slot:'item',
                 viewMatrix:[-107,23,106.5+2,0,0],
-                cost:['100000000000000 honey','100 magicBean','25 swirledWax','25 causticWax','10 turpentine'],
+                cost:[],
                 desc:'Alone, grows in about 60m. Grants many bonus items such as fruits, crafting ingredients, and waxes.<br><br>• Grows x1.5 faster in the Coconut, Stump, Pepper, and Mountain Top fields.<br><br>• Grants x1.5 nectar.<br><br>• Gifted bees are 1.5x more likely to sip from this planter.'
             },{
 
